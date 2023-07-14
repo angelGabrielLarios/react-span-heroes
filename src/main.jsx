@@ -1,5 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import './css/animations.css'
+
 import './index.css'
 import { HeroesApp } from './HeroesApp'
 import { BrowserRouter } from 'react-router-dom'
